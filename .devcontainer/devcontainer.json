@@ -1,0 +1,6 @@
+{
+  "name": "Transactions 3 API",
+  "dockerComposeFile": "../docker-compose.yml",
+  "service": "api",
+  "workspaceFolder": "/app"
+}
